@@ -10,7 +10,7 @@ Uma API desenvolvida no bootcamp da DIO sobre Spring que tem o intuito de ajudar
 5- Permitir filtro por periodo
 6- Mostrar estatisticas gerais de gastos
 
-## ## Requisitos Não-Funcionais
+## Requisitos Não-Funcionais
 
 1- Autenticação por usuário (JWT) – para multiusuário
 2- Deploy com PostgreSQL no Railway
